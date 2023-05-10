@@ -92,8 +92,9 @@ Upon running the Python script with the appropriate stock data and SMA window pe
 
 Upon launching the web page via Voila the following should appear:
 
-![SMA Crossover Visualization](images/sma-crossover.png)
-![SMA Crossover Cumulative Returns](images/cumulative-returns.png)
+![SMA Crossover Visualization](Images/sma-crossover.png)
+
+![SMA Crossover Cumulative Returns](Images/cumulative-returns.png)
 
 ---
 
