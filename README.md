@@ -92,7 +92,7 @@ Nicely done! You now are ready to utilize the code. To run the repo folder in Ju
 <img width="600" height="400" alt="Screenshot 2023-05-11 at 10 28 57 AM" src="https://github.com/djohnst914/github_upload/assets/123714457/f4b270a8-ca3a-46db-bf42-b3f7e2ba67d1">
 
 ### 2. Sourcev2 (main application)
-- Once you have completed the above usage steps, in JupyterLab open the sourcev2.ipynb file.
+- Once you have completed the above usage steps, in JupyterLab open the sourcev2MS.ipynb file.
 - Once open, same as before, under 'Kernel' in the menu bar select 'Restart Kernel and Run All Cells'.
 
 ![Screenshot 2023-05-11 at 10 24 08 AM](https://github.com/djohnst914/github_upload/assets/123714457/b90fb7ec-793c-40c4-98ed-f0c68d5541f0)
@@ -113,10 +113,7 @@ Nicely done! You now are ready to utilize the code. To run the repo folder in Ju
 
 <img width="542" alt="Screenshot 2023-05-11 at 11 08 15 AM" src="https://github.com/djohnst914/github_upload/assets/123714457/021a4251-3895-48f0-adef-5a2fd7aa4ed9">
 
-- After the web page screen loads, select file 'sourcev2.ipynb':
-
-<img width="542" alt="Screenshot 2023-05-11 at 11 18 39 AM" src="https://github.com/djohnst914/github_upload/assets/123714457/caabe265-4ad5-42eb-8de3-35010226b7f0">
-
+- After the web page screen loads, select file 'sourcev2MS.ipynb':
 - Voilà! You are now on the main application web application
 - **NOTE~** If you want to load the web application with different user inputs, repeat usage steps with new inputs.
 
